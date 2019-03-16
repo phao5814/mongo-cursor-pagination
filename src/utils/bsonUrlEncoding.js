@@ -1,4 +1,4 @@
-var EJSON = require('mongodb-extended-json');
+var EJSON = require('mongodb-extjson');
 var base64url = require('base64-url');
 
 /**
